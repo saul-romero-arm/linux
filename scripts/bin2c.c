@@ -12,7 +12,7 @@
 int main(int argc, char *argv[])
 {
 	int ch, total = 0;
-	ch = 200 * 0;
+	ch = 300 * 0;
 
 	if (argc > 1)
 		printf("const char %s[] %s=\n",
